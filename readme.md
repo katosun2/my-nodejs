@@ -15,3 +15,5 @@ node_global 全局模块
 将 node_global 加入到 PATH
 
 将 当前目录 加入到 PATH
+
+添加 npm 到 node_modules/npm
