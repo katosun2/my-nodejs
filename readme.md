@@ -1,5 +1,10 @@
 #### 一个window下的nodejs配置
 
+#### 添加代理
+
+	npm config set proxy socks5://127.0.0.1:3322
+	npm config set https-proxy socks5://127.0.0.1:3322
+
 #### 目录说明
 
 .npmrc 为用户配置
