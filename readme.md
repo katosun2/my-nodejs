@@ -12,8 +12,6 @@ node_global 全局模块
 
 #### 添加环境变量
 
-将 node_global 加入到 PATH
-
-将 当前目录 加入到 PATH
-
-添加 npm 到 node_modules/npm
+1. 将 **node_global** 路径加入到环境变量 **PATH**
+2. 将 当前目录 加入到环境变量 PATH
+3. 添加 **npm** 模块到 **node_modules/npm**
