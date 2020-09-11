@@ -1,10 +1,10 @@
 {
   "name": "nodejs",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "nodejs project",
   "main": "index.js",
   "dependencies": {
-    "npm": "^3.9.6"
+    "npm": "^6.9.2"
   },
   "devDependencies": {},
   "scripts": {
@@ -15,7 +15,7 @@
     "url": "https://github.com/katosun2/my-nodejs.git"
   },
   "engines": {
-    "node": ">=5.9.x"
+    "node": ">=12.18.x"
   },
   "keywords": [
     "node",
